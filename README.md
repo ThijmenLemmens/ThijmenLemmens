@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **C pointers**
 
-- 📫 How to reach me [https://github.com/ThijmenLemmens](https://github.com/ThijmenLemmens)
+- 📫 Github [https://github.com/ThijmenLemmens](https://github.com/ThijmenLemmens)
 
 - 💬 Ask me about **Java**
 
